@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "question": "Quelle est la matière qui pollue le plus ?",
+      "choices": ["Le plastique", "Le carton", "Le verre", "L'alluminium"],
+      "answer": "Le plastique"
+    },
+    {
+      "question": "Quelle ressource energétique pollue le plus (gaz à effet de serre) ?",
+      "choices": ["Le nucléaire", "Le charbon", "Les éoliennes", "le fioul"],
+      "answer": "Le charbon"
+    },
+    {
+      "question": "Quel pays pollue le plus ?",
+      "choices": ["Le Japon", "La France", "La Chine", "Les Etats-Unis"],
+      "answer": "La Chine"
+    },
+    {
+      "question": "Combien de temps met une bouteille en plastique à se dégrader",
+      "choices": ["de 10 à 50 ans", "de 50 à 100 ans","de 100 à 1000 ans", "de 150 à 500 ans"],
+      "answer": "de 100 à 1000 ans"
+    },
+    {
+      "question": "Combien de temps met le carton à se dégrader",
+      "choices": ["1 mois ou plus ", "5 mois ou plus","3 mois  et demi", "5 ans ou plus"],
+      "answer": "5 mois ou plus"
+    },
+    {
+      "question": "Combien  de temps met le verre à se dégrader",
+      "choices": ["Jusqu'à 4000 ans", "Jusqu'à 500 ans", "environ 200 ans", "3 mois"],
+      "answer": "Jusqu'à 4000 ans"
+    },
+    {
+    "question": "Quelle est la composition d'une brique de lait",
+    "choices": ["50% de carton, 25% de plastique 25% d'alluminium", "60% de carton, 20% de plastique, 20% d'alluminium", "75% de carton, 20% de plastique et 5% d'alluminium"],
+    "answer": "75% de carton, 20% de plastique et 5% d'alluminium"
+    },
+    {
+    "question": "Quelle quantité de CO2 est produite pour un kg de viande en moyenne?",
+    "choices": ["50 kg de CO2", "150 kg de CO2", "27 kg de CO2","8 kg de CO2"],
+    "answer": "27 kg de CO2"
+    },
+    {
+      "question": "Quelle est la consommation moyenne de papier par Français par an ?",
+      "choices": ["50 kg de papier", "85 kg de papier", "135 kg de papier","1 kg de papier"],
+      "answer": "135 kg de papier"
+    },
+    {
+      "question": "Combien de temps dure en moyenne le cycle de recyclage d'une canette de soda",
+      "choices": ["60 jours", "10 jours", "1 an","6 mois"],
+      "answer": "60 jours"
+    }
+  ]
+   
+  
+}
